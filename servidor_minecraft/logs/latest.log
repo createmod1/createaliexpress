@@ -1949,3 +1949,6 @@ java.nio.file.NoSuchFileException: /workspaces/createaliexpress/servidor_minecra
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [30Nov2024 14:53:57.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[30Nov2024 14:57:13.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[30Nov2024 15:07:47.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: Disconnected
+[30Nov2024 15:07:47.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
