@@ -1952,3 +1952,34 @@ java.nio.file.NoSuchFileException: /workspaces/createaliexpress/servidor_minecra
 [30Nov2024 14:57:13.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
 [30Nov2024 15:07:47.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: Disconnected
 [30Nov2024 15:07:47.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
+[30Nov2024 15:10:42.493] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player patatacraft123 is b6e05747-0ad6-4c05-9871-716a78fc1d4f
+[30Nov2024 15:10:46.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patatacraft123[/127.14.161.127:44813] logged in with entity id 26163 at (262.5, 75.91249999552966, -510.5)
+[30Nov2024 15:10:46.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 joined the game
+[30Nov2024 15:10:47.023] [Server thread/INFO] [Jade/]: Syncing config to patatacraft123 (b6e05747-0ad6-4c05-9871-716a78fc1d4f)
+[30Nov2024 15:10:54.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3847ms or 76 ticks behind
+[30Nov2024 15:16:04.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: Disconnected
+[30Nov2024 15:16:04.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
+[30Nov2024 15:16:07.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Nov2024 15:16:07.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Nov2024 15:16:07.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Nov2024 15:16:07.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Nov2024 15:16:07.714] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[30Nov2024 15:16:07.720] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[30Nov2024 15:16:08.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Nov2024 15:16:08.017] [DefaultDispatcher-worker-2/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[30Nov2024 15:16:08.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/northstar:earth_orbit
+[30Nov2024 15:16:08.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Nov2024 15:16:08.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/northstar:mars
+[30Nov2024 15:16:08.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/northstar:mercury
+[30Nov2024 15:16:08.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/northstar:moon
+[30Nov2024 15:16:08.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/northstar:venus
+[30Nov2024 15:16:08.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Nov2024 15:16:08.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Nov2024 15:16:08.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[30Nov2024 15:16:08.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Nov2024 15:16:08.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[30Nov2024 15:16:08.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[30Nov2024 15:16:08.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[30Nov2024 15:16:08.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[30Nov2024 15:16:08.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Nov2024 15:16:08.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
