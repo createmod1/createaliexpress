@@ -1962,3 +1962,13 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [01Dec2024 19:26:49.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> voy a usar uno de locomotora
 [01Dec2024 19:27:00.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> voy a creaftear para ver como es
 [01Dec2024 19:27:03.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> no se como se hacen
+[01Dec2024 19:29:52.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> si consigues el metal de las locomotoras necesito en negro
+[01Dec2024 19:30:15.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> no encuentro como hacer es un bucle
+[01Dec2024 19:30:20.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> ya
+[01Dec2024 19:30:34.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> prueba el cortapiedras
+[01Dec2024 19:30:41.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> ok
+[01Dec2024 19:38:46.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> es un bloque de hierro en el corta piedras
+[01Dec2024 19:45:54.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> si puedes ven a la granja de hierro en las fabricas
+[01Dec2024 19:47:59.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> ns cual elejir
+[01Dec2024 19:48:16.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Timed out
+[01Dec2024 19:48:16.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
