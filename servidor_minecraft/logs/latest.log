@@ -1946,3 +1946,19 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [01Dec2024 19:17:09.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Disconnected
 [01Dec2024 19:17:09.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
 [01Dec2024 19:17:09.229] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Dec2024 19:17:45.596] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ed7d165[id=<null>,name=Am_maquinista,properties={},legacy=false] (/127.58.88.148:36127) lost connection: Disconnected
+[01Dec2024 19:18:20.807] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76268706[id=<null>,name=Am_maquinista,properties={},legacy=false] (/127.58.88.148:46379) lost connection: Disconnected
+[01Dec2024 19:18:24.379] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Am_maquinista is 8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82
+[01Dec2024 19:18:27.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Am_maquinista[/127.58.88.148:55767] logged in with entity id 41274 at (248.58504737347178, 63.9375, -531.3634458787436)
+[01Dec2024 19:18:27.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
+[01Dec2024 19:18:27.188] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
+[01Dec2024 19:18:29.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[01Dec2024 19:18:58.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14080ms or 281 ticks behind
+[01Dec2024 19:19:21.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[01Dec2024 19:19:55.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19077ms or 381 ticks behind
+[01Dec2024 19:25:34.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> que bloque puedo usar para que sea metal gris
+[01Dec2024 19:26:05.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> mira alguno de northstar
+[01Dec2024 19:26:25.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> o andesita
+[01Dec2024 19:26:49.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> voy a usar uno de locomotora
+[01Dec2024 19:27:00.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> voy a creaftear para ver como es
+[01Dec2024 19:27:03.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> no se como se hacen
