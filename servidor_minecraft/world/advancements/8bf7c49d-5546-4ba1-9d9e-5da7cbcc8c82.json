@@ -14541,5 +14541,30 @@
     },
     "done": true
   },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-12-01 19:14:20 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2024-12-01 19:14:20 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-12-01 19:14:20 +0000",
+      "inv_changed-diamond": "2024-12-01 19:14:20 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2024-12-01 19:14:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -1925,3 +1925,24 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [01Dec2024 18:59:19.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 joined the game
 [01Dec2024 18:59:20.003] [Server thread/INFO] [Jade/]: Syncing config to patatacraft123 (b6e05747-0ad6-4c05-9871-716a78fc1d4f)
 [01Dec2024 18:59:24.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[01Dec2024 19:09:19.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01Dec2024 19:09:42.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2382ms or 47 ticks behind
+[01Dec2024 19:10:02.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5543ms or 110 ticks behind
+[01Dec2024 19:14:17.858] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Am_maquinista is 8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82
+[01Dec2024 19:14:20.126] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Am_maquinista[/127.58.88.148:40179] logged in with entity id 33439 at (58.350462320932756, 63.0, -547.136591509943)
+[01Dec2024 19:14:20.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
+[01Dec2024 19:14:20.477] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
+[01Dec2024 19:14:23.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[01Dec2024 19:14:45.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> saludos
+[01Dec2024 19:14:56.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18184ms or 363 ticks behind
+[01Dec2024 19:14:57.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> hola caballero
+[01Dec2024 19:15:01.234] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 1 blocks, out of 32768 allowed
+[01Dec2024 19:15:17.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5294ms or 105 ticks behind
+[01Dec2024 19:15:18.834] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8653561650000006E7, 33.02969174511621, -152.25563492812216] -> [-54.05614284425974, 41.30000001192093, 1.2290058650000006E7] returning empty list! this might break things
+[01Dec2024 19:15:37.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5077ms or 101 ticks behind
+[01Dec2024 19:15:59.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[01Dec2024 19:16:17.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2970ms or 59 ticks behind
+[01Dec2024 19:16:37.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5024ms or 100 ticks behind
+[01Dec2024 19:17:09.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Disconnected
+[01Dec2024 19:17:09.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
+[01Dec2024 19:17:09.229] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
