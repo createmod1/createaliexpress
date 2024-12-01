@@ -1918,3 +1918,10 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [01Dec2024 18:52:41.103] [Server thread/INFO] [Jade/]: Syncing config to patatacraft123 (b6e05747-0ad6-4c05-9871-716a78fc1d4f)
 [01Dec2024 18:52:41.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11745ms or 234 ticks behind
 [01Dec2024 18:53:02.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6701ms or 134 ticks behind
+[01Dec2024 18:58:57.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: Disconnected
+[01Dec2024 18:58:57.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
+[01Dec2024 18:59:15.383] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player patatacraft123 is b6e05747-0ad6-4c05-9871-716a78fc1d4f
+[01Dec2024 18:59:19.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patatacraft123[/127.14.161.127:35599] logged in with entity id 3285 at (262.5, 75.91249999552966, -510.5)
+[01Dec2024 18:59:19.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 joined the game
+[01Dec2024 18:59:20.003] [Server thread/INFO] [Jade/]: Syncing config to patatacraft123 (b6e05747-0ad6-4c05-9871-716a78fc1d4f)
+[01Dec2024 18:59:24.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
