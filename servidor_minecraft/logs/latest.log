@@ -1986,3 +1986,10 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [02Dec2024 18:50:18.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=68, z=-613} BlockPos{x=13, y=71, z=-612}
 [02Dec2024 18:50:18.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=68, z=-613} BlockPos{x=13, y=71, z=-612}
 [02Dec2024 18:50:18.187] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=68, z=-613} BlockPos{x=13, y=71, z=-612}
+[02Dec2024 18:51:47.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=66, z=-612} BlockPos{x=3, y=65, z=-611}
+[02Dec2024 18:58:00.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=70, z=-603} BlockPos{x=17, y=69, z=-605}
+[02Dec2024 18:58:00.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=70, z=-603} BlockPos{x=17, y=69, z=-605}
+[02Dec2024 18:58:00.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=70, z=-603} BlockPos{x=17, y=69, z=-605}
+[02Dec2024 18:58:00.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=70, z=-603} BlockPos{x=17, y=69, z=-605}
+[02Dec2024 18:58:01.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=70, z=-603} BlockPos{x=17, y=69, z=-605}
+[02Dec2024 18:58:01.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=70, z=-603} BlockPos{x=17, y=69, z=-605}
