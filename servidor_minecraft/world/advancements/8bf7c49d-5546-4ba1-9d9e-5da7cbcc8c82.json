@@ -14566,15 +14566,57 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/gray_blueprint_block_from_gray_dye": {
+    "criteria": {
+      "has_dyed_item": "2024-12-02 17:49:50 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/gray_blueprint_block": {
+    "criteria": {
+      "has_dyed_item": "2024-12-02 17:49:50 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-02 17:49:35 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_wool": {
+    "criteria": {
+      "has_wool": "2024-12-02 17:57:19 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
     "criteria": {
       "has_item": "2024-12-02 17:28:39 +0000"
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-02 17:49:35 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/inventory_access_port": {
     "criteria": {
       "has_item": "2024-12-02 17:23:13 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-02 17:49:35 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-02 17:49:35 +0000"
     },
     "done": true
   },
@@ -14587,6 +14629,12 @@
   "create_connected:recipes/crafting/kinetics/inventory_bridge": {
     "criteria": {
       "has_item": "2024-12-02 17:23:13 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/gas_mask": {
+    "criteria": {
+      "has_wool": "2024-12-02 17:57:19 +0000"
     },
     "done": true
   },

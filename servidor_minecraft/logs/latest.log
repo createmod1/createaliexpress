@@ -1936,3 +1936,40 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [02Dec2024 17:36:00.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> me voy chao
 [02Dec2024 17:36:01.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: Disconnected
 [02Dec2024 17:36:01.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
+[02Dec2024 17:52:50.465] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Am_maquinista/estacion_monorrail.nbt
+[02Dec2024 17:54:27.087] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 25, 68, -612
+[02Dec2024 17:54:27.087] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 27, 68, -612
+[02Dec2024 17:54:27.088] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 26, 68, -613
+[02Dec2024 17:54:27.088] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 26, 68, -611
+[02Dec2024 17:54:27.088] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 26, 67, -612
+[02Dec2024 17:54:27.088] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 26, 69, -612
+[02Dec2024 17:54:27.089] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 27, 67, -612
+[02Dec2024 17:54:27.089] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 29, 67, -612
+[02Dec2024 17:54:27.090] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 28, 67, -613
+[02Dec2024 17:54:27.090] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 28, 67, -611
+[02Dec2024 17:54:27.090] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 28, 66, -612
+[02Dec2024 17:54:27.091] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 28, 68, -612
+[02Dec2024 17:54:27.092] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 30, 67, -620
+[02Dec2024 17:54:27.093] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 32, 67, -620
+[02Dec2024 17:54:27.093] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 31, 67, -621
+[02Dec2024 17:54:27.094] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 31, 67, -619
+[02Dec2024 17:54:27.094] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 31, 66, -620
+[02Dec2024 17:54:27.098] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 31, 68, -620
+[02Dec2024 17:54:27.099] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 22, 66, -612
+[02Dec2024 17:54:27.099] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 24, 66, -612
+[02Dec2024 17:54:27.099] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 23, 66, -613
+[02Dec2024 17:54:27.114] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 23, 66, -611
+[02Dec2024 17:54:27.114] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 23, 65, -612
+[02Dec2024 17:54:27.114] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 23, 67, -612
+[02Dec2024 17:54:27.114] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 29, 66, -612
+[02Dec2024 17:54:27.117] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 31, 66, -612
+[02Dec2024 17:54:27.117] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 30, 66, -613
+[02Dec2024 17:54:27.118] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 30, 66, -611
+[02Dec2024 17:54:27.118] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 30, 65, -612
+[02Dec2024 17:54:27.118] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 30, 67, -612
+[02Dec2024 17:54:27.120] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 30, 65, -620
+[02Dec2024 17:54:27.120] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 32, 65, -620
+[02Dec2024 17:54:27.121] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 31, 65, -621
+[02Dec2024 17:54:27.121] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 31, 65, -619
+[02Dec2024 17:54:27.126] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 31, 64, -620
+[02Dec2024 17:54:27.126] [Server thread/ERROR] [net.minecraft.world.level.redstone.CollectingNeighborUpdater/]: Too many chained neighbor updates. Skipping the rest. First skipped position: 31, 66, -620
