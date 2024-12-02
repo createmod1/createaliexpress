@@ -14566,5 +14566,23 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/inventory_access_port": {
+    "criteria": {
+      "has_item": "2024-12-02 17:23:13 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/computer_normal": {
+    "criteria": {
+      "has_redstone": "2024-12-02 17:22:18 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inventory_bridge": {
+    "criteria": {
+      "has_item": "2024-12-02 17:23:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
