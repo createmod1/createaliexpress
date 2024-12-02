@@ -14566,6 +14566,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2024-12-02 17:28:39 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/inventory_access_port": {
     "criteria": {
       "has_item": "2024-12-02 17:23:13 +0000"
