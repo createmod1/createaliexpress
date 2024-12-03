@@ -2012,3 +2012,6 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [03Dec2024 18:34:14.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista burned to death
 [03Dec2024 18:45:16.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista is bleeding. Am_maquinista fell from a high place
 [03Dec2024 18:45:34.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista fell from a high place
+[03Dec2024 18:52:54.894] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Am_maquinista/pilar_peque_o.nbt
+[03Dec2024 18:56:26.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=63, z=-625} BlockPos{x=101, y=62, z=-620}
+[03Dec2024 18:58:06.192] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Am_maquinista/chimenea_ladrillos.nbt
