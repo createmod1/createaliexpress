@@ -2024,3 +2024,29 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [03Dec2024 19:21:41.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> ven a ver las cocheras
 [03Dec2024 19:21:43.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
 [03Dec2024 19:21:49.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> a 1mb
+[03Dec2024 19:22:45.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Dec2024 19:22:45.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op patatacraft123<--[HERE]
+[03Dec2024 19:23:18.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made patatacraft123 a server operator
+[03Dec2024 19:24:40.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patatacraft123: Made patatacraft123 no longer a server operator]
+[03Dec2024 19:24:43.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> ya esta
+[03Dec2024 19:24:56.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> prueba ahora
+[03Dec2024 19:25:15.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> no
+[03Dec2024 19:25:28.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> tienes que poner 1000
+[03Dec2024 19:25:31.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made patatacraft123 a server operator
+[03Dec2024 19:26:25.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=64, z=-522} BlockPos{x=283, y=64, z=-532}
+[03Dec2024 19:26:29.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> ahora?
+[03Dec2024 19:26:49.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> no
+[03Dec2024 19:27:07.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> cuanto pesa?
+[03Dec2024 19:27:13.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> 448kb
+[03Dec2024 19:27:38.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> eso crashea el server
+[03Dec2024 19:27:41.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> xd
+[03Dec2024 19:27:53.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> el maximo es 256kb
+[03Dec2024 19:28:02.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> es el doble
+[03Dec2024 19:28:07.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> el avion es gigante y pesa 32
+[03Dec2024 19:28:32.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> pues lo hare por secciones y ya
+[03Dec2024 19:28:43.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> si porque sino no vas a poder
+[03Dec2024 19:28:49.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> sigueme
+[03Dec2024 19:28:52.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patatacraft123: Made patatacraft123 no longer a server operator]
+[03Dec2024 19:29:27.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> mola
+[03Dec2024 19:30:11.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> aqui se cargaran los items de las fabricas al almacen
+[03Dec2024 19:30:18.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> a
