@@ -2050,3 +2050,13 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [03Dec2024 19:29:27.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> mola
 [03Dec2024 19:30:11.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> aqui se cargaran los items de las fabricas al almacen
 [03Dec2024 19:30:18.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> a
+[03Dec2024 19:34:27.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> necesito polvora
+[03Dec2024 19:34:35.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> no tengo nada
+[03Dec2024 19:34:52.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> la granaj esta off de polvora
+[03Dec2024 19:35:22.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[03Dec2024 19:35:41.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3004ms or 60 ticks behind
+[03Dec2024 19:36:10.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14285ms or 285 ticks behind
+[03Dec2024 19:39:52.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: Disconnected
+[03Dec2024 19:39:52.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
+[03Dec2024 19:46:19.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Disconnected
+[03Dec2024 19:46:19.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
