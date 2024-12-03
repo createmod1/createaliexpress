@@ -14656,5 +14656,11 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/parallel_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2024-12-03 18:29:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
