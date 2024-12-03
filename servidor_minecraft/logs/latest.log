@@ -2008,3 +2008,7 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [03Dec2024 17:55:32.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9900ms or 198 ticks behind
 [03Dec2024 17:55:57.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [03Dec2024 17:57:23.499] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Am_maquinista/atxuri.nbt
+[03Dec2024 18:33:58.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista is bleeding. Am_maquinista burned to death
+[03Dec2024 18:34:14.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista burned to death
+[03Dec2024 18:45:16.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista is bleeding. Am_maquinista fell from a high place
+[03Dec2024 18:45:34.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista fell from a high place
