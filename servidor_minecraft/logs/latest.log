@@ -2015,3 +2015,12 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [03Dec2024 18:52:54.894] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Am_maquinista/pilar_peque_o.nbt
 [03Dec2024 18:56:26.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=63, z=-625} BlockPos{x=101, y=62, z=-620}
 [03Dec2024 18:58:06.192] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Am_maquinista/chimenea_ladrillos.nbt
+[03Dec2024 19:21:06.958] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player patatacraft123 is b6e05747-0ad6-4c05-9871-716a78fc1d4f
+[03Dec2024 19:21:11.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patatacraft123[/127.14.161.127:48435] logged in with entity id 97720 at (231.77771486523258, 71.0, -536.9370976973995)
+[03Dec2024 19:21:11.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 joined the game
+[03Dec2024 19:21:11.562] [Server thread/INFO] [Jade/]: Syncing config to patatacraft123 (b6e05747-0ad6-4c05-9871-716a78fc1d4f)
+[03Dec2024 19:21:23.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> hola
+[03Dec2024 19:21:37.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> a cuanto agrando los esquemas
+[03Dec2024 19:21:41.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> ven a ver las cocheras
+[03Dec2024 19:21:43.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[03Dec2024 19:21:49.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> a 1mb
