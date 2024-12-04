@@ -1974,3 +1974,11 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [04Dec2024 20:32:20.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=332, y=65, z=-597} BlockPos{x=333, y=68, z=-598}
 [04Dec2024 20:32:20.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=332, y=65, z=-597} BlockPos{x=333, y=68, z=-598}
 [04Dec2024 20:32:20.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=332, y=65, z=-597} BlockPos{x=333, y=68, z=-598}
+[04Dec2024 20:43:06.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=330, y=64, z=-601} BlockPos{x=330, y=66, z=-603}
+[04Dec2024 20:43:06.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=330, y=64, z=-601} BlockPos{x=330, y=66, z=-603}
+[04Dec2024 20:43:06.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=330, y=64, z=-601} BlockPos{x=330, y=66, z=-603}
+[04Dec2024 20:43:06.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=330, y=64, z=-601} BlockPos{x=330, y=66, z=-603}
+[04Dec2024 20:43:06.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=330, y=64, z=-601} BlockPos{x=330, y=66, z=-603}
+[04Dec2024 20:43:06.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=330, y=64, z=-601} BlockPos{x=330, y=66, z=-603}
+[04Dec2024 20:43:06.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=330, y=64, z=-601} BlockPos{x=330, y=66, z=-603}
+[04Dec2024 20:43:06.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=330, y=64, z=-601} BlockPos{x=330, y=66, z=-603}
