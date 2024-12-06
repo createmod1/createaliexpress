@@ -1979,3 +1979,12 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [06Dec2024 21:48:18.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
 [06Dec2024 21:49:12.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
 [06Dec2024 21:49:30.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[06Dec2024 21:49:49.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[06Dec2024 21:50:10.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6268ms or 125 ticks behind
+[06Dec2024 21:51:25.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> me desconecto
+[06Dec2024 21:51:28.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> agur
+[06Dec2024 21:51:29.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> agur
+[06Dec2024 21:51:30.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Disconnected
+[06Dec2024 21:51:30.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
+[06Dec2024 21:57:25.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[06Dec2024 21:57:43.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3059ms or 61 ticks behind
