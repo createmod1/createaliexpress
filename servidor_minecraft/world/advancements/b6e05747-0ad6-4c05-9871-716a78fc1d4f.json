@@ -14677,5 +14677,11 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/computer_normal": {
+    "criteria": {
+      "has_redstone": "2024-12-06 12:20:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

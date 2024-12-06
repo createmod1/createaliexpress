@@ -1986,3 +1986,21 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [06Dec2024 12:17:26.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patatacraft123[/127.14.161.127:47797] logged in with entity id 30818 at (-346.65675157251343, 46.0, -1521.6657610437594)
 [06Dec2024 12:17:27.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 joined the game
 [06Dec2024 12:17:27.179] [Server thread/INFO] [Jade/]: Syncing config to patatacraft123 (b6e05747-0ad6-4c05-9871-716a78fc1d4f)
+[06Dec2024 12:19:10.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[06Dec2024 12:23:09.688] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player patatacraft123 is b6e05747-0ad6-4c05-9871-716a78fc1d4f
+[06Dec2024 12:23:14.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: You logged in from another location
+[06Dec2024 12:23:14.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
+[06Dec2024 12:23:14.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patatacraft123[/127.14.161.127:39431] logged in with entity id 46550 at (-298.4762281087158, -53.0, -1531.1188079240994)
+[06Dec2024 12:23:14.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 joined the game
+[06Dec2024 12:23:14.524] [Server thread/INFO] [Jade/]: Syncing config to patatacraft123 (b6e05747-0ad6-4c05-9871-716a78fc1d4f)
+[06Dec2024 12:23:42.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> porque me echa del server y me dice algo de nbt
+[06Dec2024 12:23:47.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: Disconnected
+[06Dec2024 12:23:47.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
+[06Dec2024 12:23:53.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> no se
+[06Dec2024 12:23:54.473] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player patatacraft123 is b6e05747-0ad6-4c05-9871-716a78fc1d4f
+[06Dec2024 12:23:58.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patatacraft123[/127.14.161.127:52389] logged in with entity id 48079 at (-296.98750001192093, -53.0, -1530.5975256851511)
+[06Dec2024 12:23:58.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 joined the game
+[06Dec2024 12:23:58.981] [Server thread/INFO] [Jade/]: Syncing config to patatacraft123 (b6e05747-0ad6-4c05-9871-716a78fc1d4f)
+[06Dec2024 12:24:02.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[06Dec2024 12:24:02.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> no se
+[06Dec2024 12:24:08.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> a mi no me pasa
