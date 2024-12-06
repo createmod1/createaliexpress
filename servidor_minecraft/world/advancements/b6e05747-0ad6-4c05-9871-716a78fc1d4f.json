@@ -14689,5 +14689,47 @@
     },
     "done": true
   },
+  "jeg:pump_shotgun": {
+    "criteria": {
+      "Item": "2024-12-06 13:05:10 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/blueprint_block_from_blue_dye": {
+    "criteria": {
+      "has_dyed_item": "2024-12-06 13:05:11 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/blueprint_block": {
+    "criteria": {
+      "has_dyed_item": "2024-12-06 13:05:11 +0000"
+    },
+    "done": true
+  },
+  "jeg:firearm_blueprint": {
+    "criteria": {
+      "Item": "2024-12-06 13:05:10 +0000"
+    },
+    "done": true
+  },
+  "jeg:extended_mag": {
+    "criteria": {
+      "Item": "2024-12-06 13:05:09 +0000"
+    },
+    "done": true
+  },
+  "jeg:root": {
+    "criteria": {
+      "Item": "2024-12-06 13:05:27 +0000"
+    },
+    "done": true
+  },
+  "jeg:scrap": {
+    "criteria": {
+      "Item": "2024-12-06 13:05:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
