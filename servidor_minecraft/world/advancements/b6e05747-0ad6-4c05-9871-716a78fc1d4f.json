@@ -14683,5 +14683,11 @@
     },
     "done": true
   },
+  "create_mechanical_extruder:recipes/misc/crafting/mechanical_extruder": {
+    "criteria": {
+      "has_andesite_casing": "2024-12-06 12:29:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
