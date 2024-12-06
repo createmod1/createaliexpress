@@ -2074,3 +2074,15 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [06Dec2024 13:09:43.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> mas de 14
 [06Dec2024 13:09:57.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> pues guarda las que no vallas a usar
 [06Dec2024 13:10:03.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> ya
+[06Dec2024 13:10:29.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> se pueden colocar en el suelo asi que puedes hacer como unas estanterias deonde ponerlas
+[06Dec2024 13:10:53.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> ya
+[06Dec2024 13:11:07.711] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: Disconnected
+[06Dec2024 13:11:07.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
+[06Dec2024 13:11:13.728] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player patatacraft123 is b6e05747-0ad6-4c05-9871-716a78fc1d4f
+[06Dec2024 13:11:18.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patatacraft123[/127.14.161.127:38865] logged in with entity id 169567 at (-322.69999998807907, -20.0, -1528.4132793255774)
+[06Dec2024 13:11:18.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 joined the game
+[06Dec2024 13:11:18.235] [Server thread/INFO] [Jade/]: Syncing config to patatacraft123 (b6e05747-0ad6-4c05-9871-716a78fc1d4f)
+[06Dec2024 13:11:21.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[06Dec2024 13:11:29.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> duerme
+[06Dec2024 13:19:50.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[06Dec2024 13:20:22.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17002ms or 340 ticks behind
