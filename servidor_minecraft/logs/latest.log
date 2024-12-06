@@ -2331,3 +2331,23 @@ java.lang.NullPointerException: Cannot read field "feedback" because the return 
 [06Dec2024 20:45:56.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> pronto activo la granja
 [06Dec2024 20:46:06.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> activa la de polvora
 [06Dec2024 20:46:23.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> la tengo que bajar aun
+[06Dec2024 20:52:20.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3525ms or 70 ticks behind
+[06Dec2024 20:52:39.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3611ms or 72 ticks behind
+[06Dec2024 20:53:26.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[06Dec2024 21:02:50.279] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Disconnected
+[06Dec2024 21:02:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
+[06Dec2024 21:03:12.013] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Am_maquinista is 8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82
+[06Dec2024 21:03:21.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Am_maquinista[/127.73.137.175:48627] logged in with entity id 135262 at (-9.73282380231855, 65.125, -624.2778812992498)
+[06Dec2024 21:03:21.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
+[06Dec2024 21:03:21.996] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
+[06Dec2024 21:03:28.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2625ms or 52 ticks behind
+[06Dec2024 21:10:50.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> me quedo afk
+[06Dec2024 21:10:59.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> ok
+[06Dec2024 21:24:50.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> volvi
+[06Dec2024 21:25:09.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Timed out
+[06Dec2024 21:25:09.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
+[06Dec2024 21:26:18.896] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Am_maquinista is 8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82
+[06Dec2024 21:26:28.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Am_maquinista[/127.73.137.175:56055] logged in with entity id 197748 at (257.30000001192093, 75.5, -510.39714454241295)
+[06Dec2024 21:26:28.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
+[06Dec2024 21:26:28.661] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
+[06Dec2024 21:26:35.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
