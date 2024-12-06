@@ -21,6 +21,7 @@
           "port_start": 36920,
           "region": "global",
           "static_ip4": "147.185.221.22",
+          "static_ip6": "2602:fbaf:0:1::16",
           "tunnel_ip": "2602:fbaf:0:1::16"
         },
         "status": "allocated"
