@@ -1970,3 +1970,397 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [06Dec2024 22:49:46.809] [Server thread/INFO] [Jade/]: Syncing config to patatacraft123 (b6e05747-0ad6-4c05-9871-716a78fc1d4f)
 [06Dec2024 22:49:49.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14877ms or 297 ticks behind
 [06Dec2024 22:50:17.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12329ms or 246 ticks behind
+[06Dec2024 23:34:19.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[06Dec2024 23:34:56.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[06Dec2024 23:35:19.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:19.461] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:19.718] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:19.724] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:19.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:19.953] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:20.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:20.204] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:20.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:20.454] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:20.710] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:20.713] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:20.955] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:20.956] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:21.205] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:21.206] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:21.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:21.453] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:21.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:21.708] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:21.953] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:21.955] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:22.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:22.203] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:22.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:22.453] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:22.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:22.706] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:22.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:22.953] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:23.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:23.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:23.451] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:23.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:23.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:23.704] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:23.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:23.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:24.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:24.203] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:24.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:24.453] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:24.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:24.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:24.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:24.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:25.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:25.203] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:28.451] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:28.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:28.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:28.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:28.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:28.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:29.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:29.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:29.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:29.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:29.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:29.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:29.960] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:29.960] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:30.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:30.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:30.451] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:30.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:30.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:30.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:30.953] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:30.954] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:31.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:31.204] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:31.453] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:31.454] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:31.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:31.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:31.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:31.953] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:32.203] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:32.204] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:32.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:32.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:32.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:32.703] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:32.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:32.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:33.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:33.203] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:33.451] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:33.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:33.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:33.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:33.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:33.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:35.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:35.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:35.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:35.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:36.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:36.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:36.451] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:36.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:36.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:36.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:36.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:36.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:37.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:37.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:37.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:37.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:37.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:37.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:37.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:37.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:38.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:38.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:38.451] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:38.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:38.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:38.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:38.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:38.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:39.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:39.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:39.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:39.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:39.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:39.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:39.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:39.953] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:40.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:40.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:40.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:40.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:40.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:40.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:40.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:40.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:41.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:41.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:41.451] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:41.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:41.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:41.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:41.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:41.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:42.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:42.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:42.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:42.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:42.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:42.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:42.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:42.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:43.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:43.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:43.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:43.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:43.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:43.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:44.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:44.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:44.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:44.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:44.704] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:44.705] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:44.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:44.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:45.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:45.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:45.451] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:45.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:45.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:45.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:45.953] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:45.953] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:46.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:46.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:46.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:46.453] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:46.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:46.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:46.953] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:46.954] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:47.203] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:47.204] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:47.453] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:47.454] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:47.730] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:47.731] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:47.969] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:47.970] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:48.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:48.203] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:48.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:48.458] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:48.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:48.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:48.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:48.953] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:49.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:49.203] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:49.460] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:49.460] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:49.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:49.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:49.954] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:49.954] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:50.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:50.203] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:50.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:50.453] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:50.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:50.703] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:50.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:50.953] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:51.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:51.205] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:51.454] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:51.454] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:51.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:51.703] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:51.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:51.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:52.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:52.203] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:52.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:52.453] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:52.713] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:52.714] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:52.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:52.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:53.243] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:53.244] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:53.453] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:53.454] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:53.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:53.703] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:53.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:53.956] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:54.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:54.203] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:54.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:54.453] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:54.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:54.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:54.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:54.953] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:55.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:55.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:55.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:55.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:55.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:55.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:55.953] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:55.954] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:56.203] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:56.204] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:56.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:56.453] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:56.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:56.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:56.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:56.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:57.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:57.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:57.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:57.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:57.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:57.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:57.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:57.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:58.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:58.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:58.451] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:58.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:58.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:58.703] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:58.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:58.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:59.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:59.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:59.451] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:59.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:59.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:59.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:35:59.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:35:59.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:09.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:09.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:10.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:10.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:10.451] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:10.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:10.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:10.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:10.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:10.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:11.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:11.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:11.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:11.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:11.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:11.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:12.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:12.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:12.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:12.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:12.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:12.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:13.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:13.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:16.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:16.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:16.451] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:16.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:16.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:16.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:16.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:16.953] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:17.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:17.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:17.451] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:17.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:17.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:17.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:17.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:17.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:18.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:18.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:18.451] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:18.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:18.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:18.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:18.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:18.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:19.203] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:19.203] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:19.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:19.453] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:19.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:19.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:19.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:19.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:20.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:20.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:20.451] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:20.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:20.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:20.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:20.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:20.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:21.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:21.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:21.451] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:21.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:21.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:21.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:21.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:21.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:22.202] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:22.203] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:22.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:22.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:22.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:22.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:22.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:22.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:23.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:23.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:23.452] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:23.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:23.701] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:23.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:23.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:23.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:24.203] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:24.204] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:24.451] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:24.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:24.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:24.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:24.951] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:24.952] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:25.201] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:25.202] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:25.451] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:25.452] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:25.702] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:25.702] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[06Dec2024 23:36:25.952] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 23:36:25.954] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
