@@ -14824,5 +14824,23 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab": {
+    "criteria": {
+      "has_cut_dripstone_bricks": "2024-12-06 13:39:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs": {
+    "criteria": {
+      "has_cut_dripstone_bricks": "2024-12-06 13:39:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall": {
+    "criteria": {
+      "has_cut_dripstone_bricks": "2024-12-06 13:39:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
