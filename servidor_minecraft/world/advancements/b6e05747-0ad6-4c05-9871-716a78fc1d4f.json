@@ -14882,6 +14882,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-12-06 23:46:37 +0000"
+    },
+    "done": true
+  },
   "jeg:advanced_firearm_blueprint": {
     "criteria": {
       "Item": "2024-12-06 23:44:45 +0000"

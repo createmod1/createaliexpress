@@ -4655,3 +4655,10 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [06Dec2024 23:44:53.902] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
 [06Dec2024 23:44:59.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [06Dec2024 23:46:37.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 has made the advancement [Bring Home the Beacon]
+[06Dec2024 23:50:01.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2770ms or 55 ticks behind
+[06Dec2024 23:50:24.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7251ms or 145 ticks behind
+[06Dec2024 23:51:43.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
+[06Dec2024 23:52:02.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4619ms or 92 ticks behind
+[06Dec2024 23:53:42.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[06Dec2024 23:54:00.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: Disconnected
+[06Dec2024 23:54:00.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
