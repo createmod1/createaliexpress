@@ -2148,3 +2148,10 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [06Dec2024 13:39:07.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6816ms or 136 ticks behind
 [06Dec2024 13:39:29.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
 [06Dec2024 13:40:01.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17096ms or 341 ticks behind
+[06Dec2024 13:41:28.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4075ms or 81 ticks behind
+[06Dec2024 13:41:47.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> me voy a comer, me quedo afk
+[06Dec2024 13:41:50.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6239ms or 124 ticks behind
+[06Dec2024 13:41:54.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> vale
+[06Dec2024 13:45:17.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[06Dec2024 13:45:45.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: Disconnected
+[06Dec2024 13:45:45.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
