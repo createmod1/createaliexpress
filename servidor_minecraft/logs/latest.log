@@ -2019,3 +2019,25 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [07Dec2024 15:25:00.871] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
 [07Dec2024 15:25:06.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
 [07Dec2024 15:40:40.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[07Dec2024 15:54:03.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Timed out
+[07Dec2024 15:54:03.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
+[07Dec2024 15:54:09.421] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51c4d1a8[id=<null>,name=Am_maquinista,properties={},legacy=false] (/127.103.182.103:41627) lost connection: Disconnected
+[07Dec2024 15:54:25.969] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Am_maquinista is 8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82
+[07Dec2024 15:54:35.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Am_maquinista[/127.103.182.103:60305] logged in with entity id 206218 at (156.96373260566736, 66.3751001, -886.6048511412589)
+[07Dec2024 15:54:35.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
+[07Dec2024 15:54:35.755] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
+[07Dec2024 15:54:37.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[07Dec2024 15:55:35.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: Disconnected
+[07Dec2024 15:55:35.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
+[07Dec2024 15:55:35.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Timed out
+[07Dec2024 15:55:35.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
+[07Dec2024 15:55:47.634] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Am_maquinista is 8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82
+[07Dec2024 15:55:55.105] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Am_maquinista[/127.103.182.103:53051] logged in with entity id 208845 at (174.0421539263463, 65.42243082326594, -869.9578465357366)
+[07Dec2024 15:55:55.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
+[07Dec2024 15:55:55.177] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
+[07Dec2024 15:55:59.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3866ms or 77 ticks behind
+[07Dec2024 15:58:06.168] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player patatacraft123 is b6e05747-0ad6-4c05-9871-716a78fc1d4f
+[07Dec2024 15:58:10.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patatacraft123[/127.14.161.127:40107] logged in with entity id 209708 at (-357.836052915491, 18.0, -1536.360386851727)
+[07Dec2024 15:58:10.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 joined the game
+[07Dec2024 15:58:10.541] [Server thread/INFO] [Jade/]: Syncing config to patatacraft123 (b6e05747-0ad6-4c05-9871-716a78fc1d4f)
+[07Dec2024 15:58:13.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
