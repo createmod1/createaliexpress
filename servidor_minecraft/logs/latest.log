@@ -1989,3 +1989,10 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [07Dec2024 14:50:53.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
 [07Dec2024 14:51:11.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2606ms or 52 ticks behind
 [07Dec2024 14:51:32.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5825ms or 116 ticks behind
+[07Dec2024 14:52:11.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23760ms or 475 ticks behind
+[07Dec2024 14:52:38.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> granja de mobs puesta
+[07Dec2024 14:52:46.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> ok
+[07Dec2024 14:52:46.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20835ms or 416 ticks behind
+[07Dec2024 14:55:07.738] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-343, y=19, z=-1532} BlockPos{x=-344, y=18, z=-1532}
+[07Dec2024 14:57:26.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[07Dec2024 14:59:49.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-346, y=20, z=-1530} BlockPos{x=-347, y=19, z=-1530}
