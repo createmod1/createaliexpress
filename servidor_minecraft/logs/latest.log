@@ -2008,3 +2008,9 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [07Dec2024 19:48:15.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Am_maquinista[/127.143.142.204:47687] logged in with entity id 144982 at (94.0833414421584, 62.0, -630.8223109563188)
 [07Dec2024 19:48:15.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
 [07Dec2024 19:48:15.868] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
+[07Dec2024 19:59:46.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Timed out
+[07Dec2024 19:59:46.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
+[07Dec2024 20:00:31.519] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Am_maquinista is 8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82
+[07Dec2024 20:00:38.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Am_maquinista[/127.143.142.204:42263] logged in with entity id 159878 at (94.4346298834234, 67.0, -688.4807212933307)
+[07Dec2024 20:00:38.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
+[07Dec2024 20:00:38.803] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
