@@ -14882,15 +14882,21 @@
     },
     "done": true
   },
+  "jeg:advanced_firearm_blueprint": {
+    "criteria": {
+      "Item": "2024-12-06 23:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2024-12-06 23:46:37 +0000"
     },
     "done": true
   },
-  "jeg:advanced_firearm_blueprint": {
+  "minecraft:nether/create_full_beacon": {
     "criteria": {
-      "Item": "2024-12-06 23:44:45 +0000"
+      "beacon": "2024-12-07 10:13:32 +0000"
     },
     "done": true
   },
