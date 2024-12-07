@@ -2002,3 +2002,9 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [07Dec2024 19:39:30.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> luego si juego te digo
 [07Dec2024 19:39:31.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: Disconnected
 [07Dec2024 19:39:31.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
+[07Dec2024 19:47:23.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Timed out
+[07Dec2024 19:47:23.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
+[07Dec2024 19:48:03.557] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Am_maquinista is 8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82
+[07Dec2024 19:48:15.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Am_maquinista[/127.143.142.204:47687] logged in with entity id 144982 at (94.0833414421584, 62.0, -630.8223109563188)
+[07Dec2024 19:48:15.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
+[07Dec2024 19:48:15.868] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
