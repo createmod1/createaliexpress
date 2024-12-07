@@ -2003,3 +2003,11 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [07Dec2024 15:12:04.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> 15aX12X12
 [07Dec2024 15:12:22.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> ?
 [07Dec2024 15:12:32.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> nada es para guardar las medidas
+[07Dec2024 15:14:03.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Timed out
+[07Dec2024 15:14:03.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
+[07Dec2024 15:14:03.257] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Dec2024 15:19:20.567] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Am_maquinista is 8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82
+[07Dec2024 15:19:27.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Am_maquinista[/127.171.192.210:53307] logged in with entity id 108988 at (93.082637547548, 65.0, -593.4662727645886)
+[07Dec2024 15:19:27.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
+[07Dec2024 15:19:27.756] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
+[07Dec2024 15:19:32.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
