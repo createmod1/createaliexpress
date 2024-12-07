@@ -2041,3 +2041,8 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [07Dec2024 15:58:10.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 joined the game
 [07Dec2024 15:58:10.541] [Server thread/INFO] [Jade/]: Syncing config to patatacraft123 (b6e05747-0ad6-4c05-9871-716a78fc1d4f)
 [07Dec2024 15:58:13.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[07Dec2024 16:04:07.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[07Dec2024 16:13:56.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> enseguida vuelvo
+[07Dec2024 16:13:59.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> ok
+[07Dec2024 16:14:00.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Disconnected
+[07Dec2024 16:14:00.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
