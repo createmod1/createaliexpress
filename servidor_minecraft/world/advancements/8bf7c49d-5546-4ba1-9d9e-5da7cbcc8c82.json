@@ -14860,5 +14860,17 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/pocket_computer_normal": {
+    "criteria": {
+      "has_apple": "2024-12-07 13:32:23 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/pocket_computer_advanced": {
+    "criteria": {
+      "has_apple": "2024-12-07 13:32:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
