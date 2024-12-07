@@ -1996,3 +1996,10 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [07Dec2024 14:55:07.738] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-343, y=19, z=-1532} BlockPos{x=-344, y=18, z=-1532}
 [07Dec2024 14:57:26.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
 [07Dec2024 14:59:49.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-346, y=20, z=-1530} BlockPos{x=-347, y=19, z=-1530}
+[07Dec2024 15:02:12.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-347, y=19, z=-1532} BlockPos{x=-348, y=18, z=-1531}
+[07Dec2024 15:02:18.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07Dec2024 15:09:44.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[07Dec2024 15:10:19.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[07Dec2024 15:12:04.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> 15aX12X12
+[07Dec2024 15:12:22.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> ?
+[07Dec2024 15:12:32.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> nada es para guardar las medidas
