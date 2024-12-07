@@ -1950,3 +1950,7 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [07Dec2024 11:36:10.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15147ms or 302 ticks behind
 [07Dec2024 11:36:36.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11594ms or 231 ticks behind
 [07Dec2024 11:37:39.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[07Dec2024 11:51:30.229] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[07Dec2024 11:53:31.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> 16x
+[07Dec2024 11:54:03.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> 16x17
+[07Dec2024 11:54:28.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> 16x17x14a
