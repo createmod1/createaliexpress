@@ -1991,3 +1991,14 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [07Dec2024 19:27:06.796] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
 [07Dec2024 19:27:10.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [07Dec2024 19:27:28.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2728ms or 54 ticks behind
+[07Dec2024 19:30:00.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=95, y=71, z=-518} BlockPos{x=94, y=70, z=-519}
+[07Dec2024 19:30:07.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[07Dec2024 19:35:36.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> ya va la granja de hierro
+[07Dec2024 19:35:40.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> ok
+[07Dec2024 19:35:54.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> me desconecto en 5 min
+[07Dec2024 19:36:01.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> luego movere las ultimas 2
+[07Dec2024 19:39:23.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> ,me voy agur
+[07Dec2024 19:39:29.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> agur
+[07Dec2024 19:39:30.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> luego si juego te digo
+[07Dec2024 19:39:31.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: Disconnected
+[07Dec2024 19:39:31.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
