@@ -1984,3 +1984,5 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [10Dec2024 19:57:18.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> graba un monton con la granja de hierro
 [10Dec2024 19:57:23.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> pues me quedo en la graja de ladrillos
 [10Dec2024 19:59:19.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[10Dec2024 20:01:38.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[10Dec2024 20:04:32.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> ok
