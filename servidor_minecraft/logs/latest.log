@@ -1969,3 +1969,18 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [10Dec2024 18:13:15.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6954ms or 139 ticks behind
 [10Dec2024 18:18:26.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
 [10Dec2024 18:55:51.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Am_maquinista: Location (65.20091471076012, 72.25, -918.5484204888344) too far away from hit block BlockPos{x=65, y=72, z=-918}.
+[10Dec2024 19:54:36.800] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player patatacraft123 is b6e05747-0ad6-4c05-9871-716a78fc1d4f
+[10Dec2024 19:54:41.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patatacraft123[/127.14.161.127:59177] logged in with entity id 85256 at (-324.41014634414296, 46.5, -1530.2687776999771)
+[10Dec2024 19:54:41.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 joined the game
+[10Dec2024 19:54:41.921] [Server thread/INFO] [Jade/]: Syncing config to patatacraft123 (b6e05747-0ad6-4c05-9871-716a78fc1d4f)
+[10Dec2024 19:54:43.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2484ms or 49 ticks behind
+[10Dec2024 19:54:59.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> hola
+[10Dec2024 19:55:04.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> hola
+[10Dec2024 19:55:08.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9379ms or 187 ticks behind
+[10Dec2024 19:56:03.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> necesito arenisca
+[10Dec2024 19:56:17.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> no tengo nada
+[10Dec2024 19:56:42.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> y arena?
+[10Dec2024 19:56:58.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> 15 bloques
+[10Dec2024 19:57:18.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> graba un monton con la granja de hierro
+[10Dec2024 19:57:23.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> pues me quedo en la graja de ladrillos
+[10Dec2024 19:59:19.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
