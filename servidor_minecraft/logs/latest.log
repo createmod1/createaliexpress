@@ -1992,3 +1992,30 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [10Dec2024 20:18:31.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2554ms or 51 ticks behind
 [10Dec2024 20:18:51.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4694ms or 93 ticks behind
 [10Dec2024 20:20:22.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> ya va la grnaja de hierro 600 desde que me e conectado
+[10Dec2024 20:22:13.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[10Dec2024 20:22:31.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2604ms or 52 ticks behind
+[10Dec2024 20:23:29.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
+[10Dec2024 20:24:08.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> que lag
+[10Dec2024 20:24:10.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26014ms or 520 ticks behind
+[10Dec2024 20:24:41.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15729ms or 314 ticks behind
+[10Dec2024 20:25:29.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32502ms or 650 ticks behind
+[10Dec2024 20:26:14.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30139ms or 602 ticks behind
+[10Dec2024 20:27:05.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35865ms or 717 ticks behind
+[10Dec2024 20:27:37.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17193ms or 343 ticks behind
+[10Dec2024 20:27:55.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2987ms or 59 ticks behind
+[10Dec2024 20:28:13.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3068ms or 61 ticks behind
+[10Dec2024 20:28:31.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3245ms or 64 ticks behind
+[10Dec2024 20:28:50.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> necesito experiencia
+[10Dec2024 20:28:50.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4442ms or 88 ticks behind
+[10Dec2024 20:30:41.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> un momento
+[10Dec2024 20:30:48.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Disconnected
+[10Dec2024 20:30:48.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
+[10Dec2024 20:31:00.739] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Am_maquinista is 8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82
+[10Dec2024 20:31:09.633] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Am_maquinista[/127.58.88.148:55449] logged in with entity id 287483 at (263.13749998807907, 69.0, -517.1374999880791)
+[10Dec2024 20:31:09.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
+[10Dec2024 20:31:09.809] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
+[10Dec2024 20:31:13.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3438ms or 68 ticks behind
+[10Dec2024 20:31:34.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> has escrito algo?
+[10Dec2024 20:31:37.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8684ms or 173 ticks behind
+[10Dec2024 20:32:03.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> que un momento que ahora te doy xd
+[10Dec2024 20:32:06.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> xp
