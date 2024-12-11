@@ -1989,3 +1989,18 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [11Dec2024 17:27:14.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
 [11Dec2024 17:27:14.959] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
 [11Dec2024 17:27:18.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3239ms or 64 ticks behind
+[11Dec2024 17:30:01.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Disconnected
+[11Dec2024 17:30:01.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
+[11Dec2024 17:30:14.630] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Am_maquinista is 8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82
+[11Dec2024 17:30:23.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Am_maquinista[/127.58.88.148:39023] logged in with entity id 1557 at (831.2662314615226, 112.0, 311.46650085604176)
+[11Dec2024 17:30:23.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
+[11Dec2024 17:30:23.238] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
+[11Dec2024 17:30:26.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3426ms or 68 ticks behind
+[11Dec2024 17:30:49.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[11Dec2024 17:31:10.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5846ms or 116 ticks behind
+[11Dec2024 17:31:30.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5028ms or 100 ticks behind
+[11Dec2024 17:33:17.942] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Am_maquinista/lion.nbt
+[11Dec2024 17:39:17.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2886ms or 57 ticks behind
+[11Dec2024 17:39:35.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2452ms or 49 ticks behind
+[11Dec2024 17:39:59.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9568ms or 191 ticks behind
+[11Dec2024 17:40:21.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
