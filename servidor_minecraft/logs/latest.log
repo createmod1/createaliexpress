@@ -2005,3 +2005,9 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [11Dec2024 17:39:59.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9568ms or 191 ticks behind
 [11Dec2024 17:40:21.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
 [11Dec2024 17:51:15.317] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Am_maquinista/pilar_estacion_fabrica.nbt
+[11Dec2024 18:06:56.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[11Dec2024 18:07:19.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8439ms or 168 ticks behind
+[11Dec2024 18:07:23.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista is bleeding. Am_maquinista was doomed to fall
+[11Dec2024 18:07:36.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista was doomed to fall
+[11Dec2024 18:08:12.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Disconnected
+[11Dec2024 18:08:12.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
