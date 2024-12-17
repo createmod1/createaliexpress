@@ -1945,3 +1945,33 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [17Dec2024 15:49:35.039] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
 [17Dec2024 15:49:36.039] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
 [17Dec2024 15:49:38.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[17Dec2024 15:59:28.177] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Am_maquinista is 8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82
+[17Dec2024 15:59:37.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Am_maquinista[/127.58.88.148:36481] logged in with entity id 266 at (123.97725619183976, 81.0, -364.5300459342189)
+[17Dec2024 15:59:38.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
+[17Dec2024 15:59:42.759] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[17Dec2024 15:59:43.761] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[17Dec2024 15:59:44.762] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[17Dec2024 15:59:45.763] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[17Dec2024 15:59:46.765] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[17Dec2024 15:59:47.766] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[17Dec2024 15:59:48.767] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[17Dec2024 15:59:49.628] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
+[17Dec2024 15:59:49.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11935ms or 238 ticks behind
+[17Dec2024 16:01:03.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[17Dec2024 16:02:56.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[17Dec2024 16:03:50.683] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player patatacraft123 is b6e05747-0ad6-4c05-9871-716a78fc1d4f
+[17Dec2024 16:03:55.068] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patatacraft123[/127.14.161.127:57331] logged in with entity id 2723 at (-345.91891398007425, 46.0, -1522.1606136132564)
+[17Dec2024 16:03:55.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 joined the game
+[17Dec2024 16:03:55.172] [Server thread/INFO] [Jade/]: Syncing config to patatacraft123 (b6e05747-0ad6-4c05-9871-716a78fc1d4f)
+[17Dec2024 16:03:59.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4203ms or 84 ticks behind
+[17Dec2024 16:04:10.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> hola
+[17Dec2024 16:04:14.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> hola
+[17Dec2024 16:04:23.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> quieres xp?
+[17Dec2024 16:04:28.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14754ms or 295 ticks behind
+[17Dec2024 16:04:39.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> me mori el otro dia donde la stronghold
+[17Dec2024 16:04:50.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> asi que voy primero a por mis cosas
+[17Dec2024 16:05:02.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> ok
+[17Dec2024 16:05:06.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[17Dec2024 16:05:26.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5399ms or 107 ticks behind
+[17Dec2024 16:05:46.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4832ms or 96 ticks behind
+[17Dec2024 16:06:25.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
