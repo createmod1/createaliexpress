@@ -1975,3 +1975,29 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [17Dec2024 16:05:26.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5399ms or 107 ticks behind
 [17Dec2024 16:05:46.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4832ms or 96 ticks behind
 [17Dec2024 16:06:25.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[17Dec2024 16:06:49.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8641ms or 172 ticks behind
+[17Dec2024 16:07:10.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6522ms or 130 ticks behind
+[17Dec2024 16:07:28.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[17Dec2024 16:07:45.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[17Dec2024 16:08:25.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[17Dec2024 16:08:54.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[17Dec2024 16:09:13.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3959ms or 79 ticks behind
+[17Dec2024 16:09:53.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[17Dec2024 16:11:00.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista is bleeding. Am_maquinista was slain by Zombie
+[17Dec2024 16:11:23.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> estoy en la cueva donde la stronghold
+[17Dec2024 16:11:40.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> ahora voy un momento
+[17Dec2024 16:11:41.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> 22 sec
+[17Dec2024 16:11:48.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> 10
+[17Dec2024 16:11:52.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> estoy llendo
+[17Dec2024 16:11:59.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista was slain by Zombie
+[17Dec2024 16:12:16.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> e llegado y has muerto
+[17Dec2024 16:13:09.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> medio corazon
+[17Dec2024 16:14:00.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista is bleeding. Am_maquinista was shot by Skeleton
+[17Dec2024 16:14:09.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista was shot by Skeleton
+[17Dec2024 16:14:22.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3907ms or 78 ticks behind
+[17Dec2024 16:14:49.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11842ms or 236 ticks behind
+[17Dec2024 16:16:35.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> has vistolaestacion?
+[17Dec2024 16:16:41.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[17Dec2024 16:16:44.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> no
+[17Dec2024 16:17:00.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Am_maquinista> luego te la enseño
+[17Dec2024 16:17:05.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <patatacraft123> ok
