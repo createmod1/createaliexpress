@@ -14966,5 +14966,11 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube_uncrafting": {
+    "criteria": {
+      "has_sugar_cube": "2024-12-20 12:47:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
