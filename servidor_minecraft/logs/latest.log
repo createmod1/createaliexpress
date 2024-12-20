@@ -1980,3 +1980,5 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [20Dec2024 11:57:55.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9438ms or 188 ticks behind
 [20Dec2024 12:01:00.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [20Dec2024 12:02:52.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[20Dec2024 12:08:06.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: Disconnected
+[20Dec2024 12:08:06.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
