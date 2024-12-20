@@ -14930,7 +14930,19 @@
     },
     "done": true
   },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2024-12-20 10:19:23 +0000"
+    },
+    "done": true
+  },
   "vs_eureka:recipes/balloon_wool": {
+    "criteria": {
+      "has_wool": "2024-12-20 10:40:17 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/gas_mask": {
     "criteria": {
       "has_wool": "2024-12-20 10:40:17 +0000"
     },
@@ -14951,18 +14963,6 @@
   "delightful:recipes/gummy/matcha": {
     "criteria": {
       "has_matcha": "2024-12-20 10:42:10 +0000"
-    },
-    "done": true
-  },
-  "create:stressometer": {
-    "criteria": {
-      "0": "2024-12-20 10:19:23 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/gas_mask": {
-    "criteria": {
-      "has_wool": "2024-12-20 10:40:17 +0000"
     },
     "done": true
   },
