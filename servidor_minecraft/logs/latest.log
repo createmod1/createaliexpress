@@ -1982,3 +1982,8 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [20Dec2024 12:02:52.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
 [20Dec2024 12:08:06.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: Disconnected
 [20Dec2024 12:08:06.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
+[20Dec2024 12:20:32.533] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player patatacraft123 is b6e05747-0ad6-4c05-9871-716a78fc1d4f
+[20Dec2024 12:20:37.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patatacraft123[/127.14.161.127:52963] logged in with entity id 60828 at (-308.32499998807907, 70.0, -1538.7308408908955)
+[20Dec2024 12:20:37.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 joined the game
+[20Dec2024 12:20:37.160] [Server thread/INFO] [Jade/]: Syncing config to patatacraft123 (b6e05747-0ad6-4c05-9871-716a78fc1d4f)
+[20Dec2024 12:20:39.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
