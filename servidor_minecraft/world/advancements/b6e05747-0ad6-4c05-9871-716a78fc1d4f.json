@@ -14972,5 +14972,11 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.base/cog_crank": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 13:03:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

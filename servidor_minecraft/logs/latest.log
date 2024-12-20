@@ -1993,3 +1993,14 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [20Dec2024 12:50:13.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5370ms or 107 ticks behind
 [20Dec2024 12:50:33.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5291ms or 105 ticks behind
 [20Dec2024 12:50:51.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3566ms or 71 ticks behind
+[20Dec2024 12:56:13.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: Disconnected
+[20Dec2024 12:56:13.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
+[20Dec2024 12:59:54.807] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player patatacraft123 is b6e05747-0ad6-4c05-9871-716a78fc1d4f
+[20Dec2024 12:59:59.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patatacraft123[/127.14.161.127:59725] logged in with entity id 258075 at (-328.6335363490368, 47.0, -1534.5005390456115)
+[20Dec2024 12:59:59.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 joined the game
+[20Dec2024 12:59:59.172] [Server thread/INFO] [Jade/]: Syncing config to patatacraft123 (b6e05747-0ad6-4c05-9871-716a78fc1d4f)
+[20Dec2024 13:00:06.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3022ms or 60 ticks behind
+[20Dec2024 13:16:22.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2454ms or 49 ticks behind
+[20Dec2024 13:16:40.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3523ms or 70 ticks behind
+[20Dec2024 13:17:52.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: Disconnected
+[20Dec2024 13:17:52.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
