@@ -14978,5 +14978,11 @@
     },
     "done": true
   },
+  "jeg:custom_smg": {
+    "criteria": {
+      "Item": "2024-12-21 11:36:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
